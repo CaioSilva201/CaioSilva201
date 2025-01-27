@@ -1,4 +1,4 @@
-## Hi there 👋
+Me chamo Caio Henrique, sou natural de Campinas e estou cursando Análise e Desenvolvimento de Sistemas. Sempre fui apaixonado pela área de tecnologia e hoje busco a transição de carreira, explorando novas possibilidades e aprendendo cada vez mais nesse universo incrível que é a TI!!!
 
 
 <p align="left">
