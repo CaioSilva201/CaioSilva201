@@ -2,7 +2,7 @@
 
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/CaioSilva201">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
